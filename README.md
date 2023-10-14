@@ -9,6 +9,9 @@ The goal of this project is to analyze Wikipedia articles and try to determine i
 - [Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
 - [ORES API](https://www.mediawiki.org/wiki/ORES)
 
+## Requirements
+Need Python installed on the system with pandas, json, time, and requests installed as libraries. 
+
 ## Data Files
 
 ### Pre-Loaded Data Files
